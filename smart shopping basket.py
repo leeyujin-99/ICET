@@ -4,7 +4,6 @@ from pandas import DataFrame as df
 import os
 import math
 import socket
-import sys
 
 def push(element):
     global top
